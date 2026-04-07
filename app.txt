@@ -1,5 +1,4 @@
 #! /bin/bash
 
 echo 'Main version'
-sudo git add .
-sudo git commit -m 'inital commit'
+login feature enabled
